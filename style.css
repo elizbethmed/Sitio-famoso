@@ -1,0 +1,50 @@
+* {
+        /* border: 1px solid #000000; */
+        box-sizing: border-box;
+       
+}
+
+body{
+    font-family: CircularSp, CircularSp-Arab, CircularSp-Hebr, CircularSp-Cyrl, CircularSp-Grek, CircularSp-Deva, var(--fallback-fonts, sans-serif), sans-serif;;
+}
+
+h3{
+    color: white;
+}
+
+.bg_black{
+    background-color: #121212;
+}
+
+head{
+    display: none;
+} 
+
+a{
+    color:white;
+}
+
+ul{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+html{ 
+    fallback: Helvetica Neue, helvetica, arial, Hiragino Kaku Gothic ProN, Meiryo, MS Gothic; 
+}
+
+header{
+    background-color: #121212;
+}
+
+.fondo{
+    background-color: #5c5c5c;
+}
+
+
+footer{
+    background-color: #ce56a0;
+}
